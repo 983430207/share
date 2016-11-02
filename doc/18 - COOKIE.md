@@ -58,3 +58,5 @@ setcookie(name,null, time()-1000)
 # 总结
 
 COOKIE 和 SESSION 对于新人来说，颇有难度，一定要配合实战，本章只是做基本的语法讲解。
+
+答疑微信：pmtt9121
